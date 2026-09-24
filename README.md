@@ -1,6 +1,3 @@
-# THE-ULTIMATE-PROBABILISTIC-TRADING-FRAMEWORK
-ABBAS TRADES - a full-stack forex trading framework education platform built with HTML, CSS, JAVA SCRIPT and Google apps script
-
 # Abbas Trades — Forex Trading Education Platform
 
 A full-stack trading education platform using Google Apps Script + Google Sheets for the backend and static HTML/CSS/JavaScript for the frontend.
