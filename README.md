@@ -1,5 +1,7 @@
 # Abbas Trades — Forex Trading Education Platform
 
+Website Link: abbastrades.in
+
 A full-stack trading education platform using Google Apps Script + Google Sheets for the backend and static HTML/CSS/JavaScript for the frontend.
 
 ## Project structure
